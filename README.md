@@ -7,6 +7,8 @@
 
 추적 결과 영상 : [https://github.com/changi1122/CBNU-2024-ML-HW8-YOLOv8/tree/master/videos_tracking](https://github.com/changi1122/CBNU-2024-ML-HW8-YOLOv8/tree/master/videos_tracking)
 
+모델 : https://github.com/changi1122/CBNU-2024-ML-HW8-YOLOv8/tree/master/runs/<버전>/detect/train/weights/best.pt
+
 ## 데이터 수집
 ### 추적할 객체 설정
 | 까치  | 비둘기 | 주차금지 표지판 |
