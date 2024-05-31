@@ -22,7 +22,12 @@
 <img src="https://github.com/changi1122/CBNU-2024-ML-HW8-YOLOv8/blob/master/images/image05.png">
 <img src="https://github.com/changi1122/CBNU-2024-ML-HW8-YOLOv8/blob/master/images/image07.png">
 
+<br>
 
+## 학습 및 Tracking
+[https://github.com/changi1122/CBNU-2024-ML-HW8-YOLOv8/blob/master/yolo%20tracking.ipynb](https://github.com/changi1122/CBNU-2024-ML-HW8-YOLOv8/blob/master/yolo%20tracking.ipynb)
+
+<br>
 
 ## 추적 결과
 <img src="https://github.com/changi1122/CBNU-2024-ML-HW8-YOLOv8/blob/master/images/image08.png">
